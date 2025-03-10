@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ce9be9cb-0414-48fd-8688-e0f1441cb4ee" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -30,12 +31,98 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestPlaywright01.executor": "Run",
+    "Application.TestPlaywright02_launch.executor": "Run",
+    "Application.TestPlaywright03_brandedbrowser.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Kavita singh/IdeaProjects/PlaywrightwithJava/src/test/java/com/PlaywrightTesting"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kavita singh\IdeaProjects\PlaywrightwithJava\src\test\java\com\PlaywrightTesting\ex01_PlaywrightBasics" />
+      <recent name="C:\Users\Kavita singh\IdeaProjects\PlaywrightwithJava\src\test\java\com\PlaywrightTesting" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesPlaywright07_slowMotion">
+    <configuration name="TesPlaywright06_Locator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PlaywrightTesting.ex03_PlaywrightLocator.TesPlaywright06_Locator" />
+      <module name="PlaywrightwithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PlaywrightTesting.ex03_PlaywrightLocator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesPlaywright07_slowMotion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PlaywrightTesting.ex03_PlaywrightLocator.TesPlaywright07_slowMotion" />
+      <module name="PlaywrightwithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PlaywrightTesting.ex03_PlaywrightLocator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlaywright03_brandedbrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PlaywrightTesting.ex01_PlaywrightBasics.TestPlaywright03_brandedbrowser" />
+      <module name="PlaywrightwithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PlaywrightTesting.ex02_Playwright_Assert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlaywright04_Assert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PlaywrightTesting.ex02_Playwright_Assert.TestPlaywright04_Assert" />
+      <module name="PlaywrightwithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PlaywrightTesting.ex02_Playwright_Assert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlaywright05_releasepage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PlaywrightTesting.ex02_Playwright_Assert.TestPlaywright05_releasepage" />
+      <module name="PlaywrightwithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PlaywrightTesting.ex02_Playwright_Assert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesPlaywright07_slowMotion" />
+        <item itemvalue="Application.TesPlaywright06_Locator" />
+        <item itemvalue="Application.TestPlaywright05_releasepage" />
+        <item itemvalue="Application.TestPlaywright04_Assert" />
+        <item itemvalue="Application.TestPlaywright03_brandedbrowser" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
